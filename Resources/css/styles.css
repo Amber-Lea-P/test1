@@ -414,6 +414,12 @@ button {
   justify-content: center;
   text-align: center;
 }
+.div-about-list {
+  display: inline;
+}
+.ul-about-list li{
+  display: inline;
+}
 
 .profile-exp {
   grid-area: exp;
