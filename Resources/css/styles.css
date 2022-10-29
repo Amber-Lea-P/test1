@@ -514,3 +514,7 @@ button {
     display: none;
   }
 }
+.profile-button {
+  width: 130px;
+  margin-top: 0.25em;
+}
