@@ -12,3 +12,7 @@ var c = a + b;
 
 console.log("hello from Amber");
 console.log("result is" +c);
+// js we have to use typescript : it is the wrapper on javascript
+
+//strict type checking is followed by typescript.
+// ts content will be converted into a javascript. 
