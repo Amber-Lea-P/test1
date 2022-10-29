@@ -514,3 +514,9 @@ button {
     display: none;
   }
 }
+.dash-button a {
+  display: block;
+  width: 100%;
+  margin-bottom: 0.2rem;
+
+}
