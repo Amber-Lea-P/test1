@@ -277,11 +277,11 @@
       display: none;
     }
 
-    /* landing 
+    landing 
     .landing {
         position: relative;
         background: url('../images/showcase.jpg') no-repeat center center/cover;
-        height: 100vh;} vh: viewport height */
+        height: 100vh;} 
     
     .landing-inner {
         color: #fff;
